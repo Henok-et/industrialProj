@@ -1,0 +1,10 @@
+POST http://localhost:3000/api/bookinggkhjk
+Content-Type: application/json
+
+{
+    "userId": "your_user_id",          // Replace with actual user ID
+    "stationId": "your_station_id",    // Replace with actual station ID
+    "serviceId": "your_service_id",    // Replace with actual service ID
+    "dateTime": "2024-11-01T12:00:00Z" // Replace with the desired booking date and time
+}
+
